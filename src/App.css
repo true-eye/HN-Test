@@ -1,0 +1,23 @@
+.main {
+  min-height: 100vh;
+  background-color: #f7f9fa;
+}
+
+.main .section {
+  min-height: 100vh;
+  max-width: 900px;
+  margin: 0 auto;
+  background-color: #fff;
+}
+
+.main .section section {
+  padding-bottom: 50px;
+}
+
+footer {
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+  background-color: #fff;
+  padding: 10px;
+}

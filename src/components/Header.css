@@ -1,0 +1,11 @@
+header {
+  display: flex;
+  position: sticky;
+  top: 0;
+  background-color: #fff;
+}
+
+header h1 {
+  flex-grow: 1;
+  margin: 10px;
+}
